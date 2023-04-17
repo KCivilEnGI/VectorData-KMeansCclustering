@@ -30,9 +30,7 @@ GeoData (geographic data) will be applied in my project, so the coordinates will
   In this task, I'll manually create a K-means clustering function. Different from the existing K-means you can get in other libraries, my K-means uses GeoDataFrame as the input. It would make geodata users process the data easier, it also demonstrates my ability to create and customize the functions as needed.
 </p>
 
-## Task 4: scikit-learn
-
-tering
+## Task 4: Clustering in scikit-learn
 <p>
   This task demonstrated the ability to use the machine learning kit to perform different clustering methods. You could also compare the K-means result in Sciki-learn with my K-means method in the previous task to check whether they have nearly the same functionality. ...(To be continued)
 </p>
