@@ -4,7 +4,7 @@ GeoData (geographic data) will be applied in my project, so the coordinates will
 
 ## Task 1: Math computation for geometries
 <p>
-  In this section, I performed general mathematical computation to calculate/determine the centroid of a polygon.
+  In this task, I performed general mathematical computation to calculate/determine the centroid of a polygon.
   The procedure contains 3 steps:<br>
   Step 1. Set up classes of Point, Polyline, and Polygon.<br>
   Step 2. Set up functions (methods) in each class.<br>
@@ -17,3 +17,22 @@ GeoData (geographic data) will be applied in my project, so the coordinates will
   (2) get the coordinate of the centroid of a polygon <br>
   (3) determine 4 boundaries of the minimum envelope which may be referred to as Bounding Box.
  </p>
+
+## Task 2: Geometry Operation and Geodata Structure
+<p>
+  In this task, I'll use pandas, Geopandas, json, and numpy libraries for reading and loading the data retrieved from Flickr. Using shapely along with pylab to visualize the location of data, then creating a convex hull for the data in a city.
+  The precedure.....(To be continued)
+ 
+</p>
+
+## Task 3: K-means clustering
+<p>
+  In this task, I'll manually create a K-means clustering function. Different from the existing K-means you can get in other libraries, my K-means uses GeoDataFrame as the input. It would make geodata users process the data easier, it also demonstrates my ability to create and customize the functions as needed.
+</p>
+
+## Task 4: scikit-learn
+
+tering
+<p>
+  This task demonstrated the ability to use the machine learning kit to perform different clustering methods. You could also compare the K-means result in Sciki-learn with my K-means method in the previous task to check whether they have nearly the same functionality. ...(To be continued)
+</p>
