@@ -25,7 +25,7 @@ GeoData (geographic data) will be applied in my project, so the coordinates will
  
 </p>
 
-## Task 3: K-means clustering
+## Task 3: Customized K-means clustering
 <p>
   In this task, I'll manually create a K-means clustering function. Different from the existing K-means you can get in other libraries, my K-means uses GeoDataFrame as the input. It would make geodata users process the data easier, it also demonstrates my ability to create and customize the functions as needed.
 </p>
