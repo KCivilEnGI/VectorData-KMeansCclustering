@@ -10,4 +10,4 @@ Step 2. Set up functions (methods) in each class.
 Step 3. Demonstrate the functionality of these class at the end
 
 The method in Polyline class allows users to calcuate the length
-The method in the Polygon class allows users to (1) calculate the area, (2) get the coordinate of the centroid of a polygon (3) determine 4 boundaries of the minimum envelope which may be referred to as Bounding Box.
+The method in the Polygon class allows users to <br>(1) calculate the area, (2) get the coordinate of the centroid of a polygon (3) determine 4 boundaries of the minimum envelope which may be referred to as Bounding Box.
