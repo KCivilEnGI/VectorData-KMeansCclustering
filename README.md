@@ -20,9 +20,7 @@ GeoData (geographic data) will be applied in my project, so the coordinates will
 
 ## Task 2: Geometry Operation and Geodata Structure
 <p>
-  In this task, I'll use pandas, Geopandas, json, and numpy libraries for reading and loading the data retrieved from Flickr. Using shapely along with pylab to visualize the location of data, then creating a convex hull for the data in a city.
-  The precedure.....(To be updated)
- 
+  In this task, I'll use pandas, Geopandas, json, and numpy libraries for reading and loading the data retrieved from Flickr. Using shapely along with pylab to visualize the location of data, then creating a convex hull for the data in a city. The purpose of convex hull is used to visualize the minimum geographic extent of a cluster. In this task, the data is classified by its location, which is the city they belong to, instead of applying the clustering algorithm to classify them.
 </p>
 
 ## Task 3: Customized K-means clustering
@@ -32,5 +30,4 @@ GeoData (geographic data) will be applied in my project, so the coordinates will
 
 ## Task 4: Clustering in scikit-learn
 <p>
-  This task demonstrated the ability to use the machine learning kit to perform different clustering methods. You could also compare the K-means result in Sciki-learn with my K-means method in the previous task to check whether they have nearly the same functionality. ...(To be updated)
-</p>
+  This task demonstrated the ability to use the machine learning kit to perform different clustering methods. You could also compare the K-means result in Sciki-learn with my K-means method in the previous task to check whether they have nearly the same functionality. Other than these, I also compare the result of DBSCAN with K-means to determine which one is the better way to classify the data in my case.
