@@ -1,4 +1,6 @@
 # Vector GeoData & K-Means clustering
+Course: Advanced Geocomputing | UW-Madison
+Instructor: Song Gao
 In this repository, I performed 3 tasks in total. (1) Math computation for geometries, (2) GeoData operation, (3) K-means clustering.
 GeoData (geographic data) will be applied in my project, so the coordinates will be defined by latitudes and longitudes, which refer to y-coordinates and x-coordinates respectively in Cassette coordinates.
 
